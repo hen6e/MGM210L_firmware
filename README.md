@@ -10,3 +10,4 @@ BTL: D0
 
 Baudrate: 115200
 
+Assess the risks of using this firmware yourself！
